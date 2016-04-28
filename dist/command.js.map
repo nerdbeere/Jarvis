@@ -1,0 +1,1 @@
+{"version":3,"sources":["command.js"],"names":[],"mappings":";;;;;;IAAM,O;;;;;;;+BACO,O,EAAS,G,EAAK;AACvB,aAAO,KAAP;AACD;;;4BAEO,O,EAAS,G,EAAK,CAErB","file":"command.js","sourcesContent":["class Command {\n  canExecute(message, bot) {\n    return false;\n  }\n\n  execute(message, bot) {\n\n  }\n}\n"],"sourceRoot":"d:\\Workspace\\jkgaming\\jarvis\\src"}

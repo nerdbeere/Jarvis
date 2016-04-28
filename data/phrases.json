@@ -1,0 +1,99 @@
+{
+  "Commands": [
+    {
+      "Name": "Nothing",
+      "Examples": [
+        "lets build a castle",
+        "play with me",
+        "nevermind",
+        "what are you up to",
+        "how are you"
+      ]
+    },
+    {
+      "Name": "Restart Minecraft",
+      "Examples": [
+        "hey, restart the minecraft server",
+        "restart minecraft",
+        "Hey, restart the server",
+        "minecraft is down, can you restart the server?",
+        "minecraft restart",
+        "server restart",
+        "server is down, restart please",
+        "minecraft server, now",
+        "please restart minecraft",
+        "hey, restart minecraft, please",
+        "jarvis restart the minecraft server",
+        "the minecraft server needs restarting, please",
+        "please, minecraft, restart",
+        "minecraft restart"
+      ]
+    },
+    {
+      "Name": "Kick Mentioned User",
+      "Examples": [
+        "can you please kick @kaahles",
+        "kick @vengarioth",
+        "can you kick @dart",
+        "kick this idiot",
+        "hey can you please kick this guy",
+        "kick him",
+        "kick",
+        "please kick",
+        "okay, kick",
+        "kick, please, now"
+      ]
+    },
+    {
+      "Name": "Do a backflip",
+      "Examples": [
+        "can you do a backflip? do it!",
+        "do a backflip",
+        "make some sports, do a backflip, now!",
+        "can you do a flip?",
+        "make a flip!",
+        "flip it",
+        "do a barrel roll",
+        "barrel roll"
+      ]
+    },
+    {
+      "Name": "Learn",
+      "Examples": [
+        "It is time to train",
+        "Please train again",
+        "Have you trained in a while?",
+        "please start training",
+        "train",
+        "jarvis, train",
+        "time to relearn",
+        "please learn again",
+        "train now",
+        "learn",
+        "train",
+        "relearn now",
+        "train now, please"
+      ]
+    },
+    {
+      "Name": "List commands",
+      "Examples": [
+        "Show me what you got",
+        "Show me your commands",
+        "What commands can you do",
+        "what have you learned",
+        "show me what commands you have learned",
+        "what commands can you execute",
+        "what can you do",
+        "what can you execute",
+        "show me what you can do",
+        "list commands please",
+        "please list commands",
+        "commands, please",
+        "list things you can do",
+        "list me all the things you can do",
+        "please list me what you can do"
+      ]
+    }
+  ]
+}
